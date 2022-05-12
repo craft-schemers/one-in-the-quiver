@@ -1,3 +1,2 @@
 # One in the Quiver
-This is a Minecraft Paper plugin implementing the "One in the Chamber" minigame in 
-minecraft
+This is a Minecraft Paper plugin implementing the "One in the Chamber" minigame.
