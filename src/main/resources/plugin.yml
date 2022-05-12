@@ -1,0 +1,4 @@
+name: Oitq
+version: '${version}'
+main: craftschemers.oitq.Oitq
+api-version: 1.18
